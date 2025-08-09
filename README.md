@@ -122,10 +122,8 @@ Portfolio/
 
 ## 📬 Contact
 
-Want to collaborate or have a project in mind?  
-Reach out via the [Contact](#contact) section or email me at:  
-**priyanshupatil.dev@gmail.com**
-
+shubhamspawade@gmail.com
 ---
 
 > _Built and designed by Shubham Pawade — 2025_
+
