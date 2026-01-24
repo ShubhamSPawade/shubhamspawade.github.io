@@ -1,129 +1,24 @@
-# 🚀 Shubham Pawade | Interactive Portfolio
+# Hi 👋, I'm Shubham Pawade
 
-A modern, interactive portfolio built with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Next.js**. This portfolio showcases my full-stack development projects, technical skills, and approach to building scalable web applications with a focus on performance, clean architecture, and seamless user experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamSPawade&label=Profile views&color=0e75b6&style=flat" alt="ShubhamSPawade" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShubhamSPawade" alt="ShubhamSPawade" /></a> </p>
 
-## 📝 Description
+- 👨‍💻 All of my projects are available at **[https://shubhamsp.is-a.dev/](https://shubhamsp.is-a.dev/)**
 
-This portfolio is a comprehensive showcase of my work as a Full Stack Developer specializing in the MERN stack. It demonstrates my ability to build complete, production-ready web applications from database design to frontend implementation. Explore my technical skills, featured full-stack projects, and learn about my development philosophy.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ShubhamSPawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShubhamSPawade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhampawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhampawade" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/shubhamsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/shubhamsp" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-## 🚀 Getting Started
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamSPawade&show_icons=true&locale=en&layout=compact" alt="ShubhamSPawade" /></p>
 
-Follow these steps to set up and run the portfolio locally:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamSPawade&show_icons=true&locale=en" alt="ShubhamSPawade" /></p>
 
-### 1. **Clone the Repository**
-
-```bash
-git clone <your-repo-url>
-cd Portfolio
-```
-
-### 2. **Install Dependencies**
-
-```bash
-npm install
-```
-
-### 3. **Start the Development Server**
-
-```bash
-npm run dev
-```
-
-The app will be available at [http://localhost:3000](http://localhost:3000) by default.
-
----
-
-## 🛠️ Tech Stack
-
-| Tech                | Description                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| 🛠️ **MongoDB**      | NoSQL database for flexible, scalable data storage.                         |
-| 🚀 **Express.js**    | Fast, unopinionated web framework for Node.js.                              |
-| ⚛️ **React**         | JavaScript library for building interactive user interfaces.                |
-| ⚡ **Node.js**       | JavaScript runtime for building scalable network applications.              |
-| 🔄 **Next.js**       | React framework for server-side rendering and API routes.                   |
-| 🎨 **Tailwind CSS**  | Utility-first CSS framework for rapid UI development.                       |
-| 🔄 **Redux**         | State management for complex React applications.                            |
-| 🚀 **RESTful APIs**  | Design and implementation of efficient, scalable APIs.                      |
-| 🛡️ **JWT**          | Secure authentication and authorization.                                    |
-| 🌀 **Framer Motion** | Production-ready animation library for React.                               |
-| 🧩 **Lenis**        | Smooth scroll library for buttery navigation.                                |
-| 🛠️ **TypeScript**   | Type-safe JavaScript for scalable and maintainable code.                     |
-
----
-
-## 📁 Project Structure
-
-```
-Portfolio/
-├── public/                     # Static files (favicon, images, etc.)
-│
-├── src/
-│   ├── app/                    # Next.js app directory (layout, pages, styles)
-│   ├── assets/                 # Icons and images
-│   ├── components/             # Reusable UI components
-│   ├── context/                # React context providers
-│   ├── lib/                    # Data, hooks, types, and utilities
-│   ├── pages/                  # Main sections (About, Projects, Contact, etc.)
-│   └── Reactbits/              # Custom React bits (e.g., CountUp)
-│
-├── .gitignore
-├── package.json
-└── README.md
-```
-
----
-
-## ✨ Key Features
-
-- 🏠 **Animated Hero Section**  
-  Eye-catching intro with animated text and orbiting icons.
-
-- 🧑‍💻 **About & Skills**  
-  Learn about my background and explore my tech stack.
-
-- 🛠️ **Featured Projects**  
-  Interactive cards highlighting real-world projects with live links.
-
-- 🧩 **Approach Section**  
-  Visual breakdown of my workflow, with animated cards and effects.
-
-- 📬 **Contact Form**  
-  Animated, accessible form to connect with me directly.
-
-- 🖱️ **Smooth Scrolling**  
-  Seamless navigation using Lenis for a premium feel.
-
-- 💡 **Custom Animations**  
-  Framer Motion and custom effects for engaging UI transitions.
-
-- 📱 **Responsive Design**  
-  Optimized for mobile, tablet, and desktop.
-
-- 🌙 **Modern UI**  
-  Minimal, elegant design with subtle gradients and custom fonts.
-
----
-
-## 🌟 Interactive Elements
-
-- **Animated Text**: Dynamic headings and section titles using custom animation components.
-- **Orbiting Icons**: Hero section features animated SVGs orbiting the main content.
-- **Canvas Effects**: Approach section uses custom canvas reveal animations.
-- **Sparkle & Aurora Text**: Special text effects for highlights and headings.
-- **Sticky Project Cards**: Projects section uses sticky, animated cards for each project.
-- **Interactive Buttons**: Hover and click effects throughout the UI.
-
----
-
-## 📬 Contact
-
-shubhamspawade@gmail.com
----
-
-> _Built and designed by Shubham Pawade — 2025_
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSPawade&" alt="ShubhamSPawade" /></p>
 
