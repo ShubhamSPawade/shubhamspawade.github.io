@@ -13,6 +13,9 @@ import { Aws } from "@/components/ui/svgs/aws";
 import { Linux } from "@/components/ui/svgs/linux";
 import { Git } from "@/components/ui/svgs/git";
 import { Postgresql } from "@/components/ui/svgs/postgresql";
+import { SpringBoot } from "@/components/ui/svgs/springboot";
+import { Java } from "@/components/ui/svgs/java";
+
 
 export const DATA = {
   name: "Shubham Pawade",
@@ -21,24 +24,34 @@ export const DATA = {
   location: "Pune, India",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
-    "Backend & Full-Stack Developer focused on building scalable systems with Node.js, AWS, and DevOps - turning ideas into production-ready applications.",
+    "Software Engineer focused on backend development, cloud infrastructure, DevOps, and full- stack applications.",
   summary:
-    "I'm a Computer Engineering (Software Engineering) student at [MIT Academy of Engineering](/#education), ranked in the **top 1% of my batch**. I specialize in backend engineering with Node.js and Express, cloud infrastructure on AWS (EC2, S3, RDS, Auto Scaling), and containerized deployments with Docker. From architecting [REST APIs and full-stack platforms](/#projects) to delivering client-facing products, I build systems designed for performance and scale. I've earned **Rank 1 at MaTPO Programming Idol** (National) and **2nd place at PICT IMPETUS & Concepts INC** (International), and I'm an active open-source contributor with [7+ repositories contributed during Hacktoberfest](https://github.com/ShubhamSPawade).",
+    "Computer Engineering student with a strong focus on backend engineering, cloud infrastructure, and scalable software architecture. Experienced in building production-grade applications with Java, Spring Boot, Node.js, React, AWS, Docker, and modern DevOps workflows. Interested in system design, distributed systems, developer tooling, and high-performance applications.",
   avatarUrl: "/me.png",
   skills: [
-    { name: "C++", icon: Cpp },
+    { name: "Java", icon: Java },
+    { name: "Spring Boot", icon: SpringBoot },
+
     { name: "Node.js", icon: Nodejs },
     { name: "Express.js", icon: Expressjs },
+
     { name: "React.js", icon: ReactLight },
     { name: "TypeScript", icon: Typescript },
+
+    { name: "C++", icon: Cpp },
     { name: "Python", icon: Python },
-    { name: "MongoDB", icon: Mongodb },
+
     { name: "PostgreSQL", icon: Postgresql },
     { name: "MySQL", icon: Mysql },
-    { name: "Docker", icon: Docker },
+    { name: "MongoDB", icon: Mongodb },
+
     { name: "AWS", icon: Aws },
+    { name: "Docker", icon: Docker },
     { name: "Linux", icon: Linux },
+
     { name: "Git", icon: Git },
+
+    { name: "Competitive Programming", icon: Icons.codechef },
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -161,7 +174,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://visiverify.com/",
+          href: "https://visiverify.shubhamsp.site/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -238,7 +251,13 @@ export const DATA = {
         "Secured Rank 1 among participants nationwide in an intensive competitive programming contest testing algorithmic problem-solving and speed.",
       image: "",
       win: "Rank 1",
-      links: [],
+      links: [
+        {
+          title: "LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/shubhampawade_programming-coding-mitaoe-ugcPost-7303863226373414912-BKsl",
+        },
+      ],
     },
     {
       title: "PICT IMPETUS & Concepts INC 2025",
@@ -248,7 +267,11 @@ export const DATA = {
         "Won 2nd place at the international-level hackathon organized by PICT, Pune — competing against teams from across the globe on a full-stack project built within a 24-hour sprint.",
       image: "",
       win: "2nd Place",
-      links: [],
+      links: [{
+        title: "LinkedIn",
+        icon: <Icons.linkedin className="h-4 w-4" />,
+        href: "https://www.linkedin.com/posts/shubhampawade_pictinc2025-impetus-innovation-ugcPost-7312107991762178048-HI8u",
+      }],
     },
     {
       title: "Technodium 2025",
@@ -258,17 +281,13 @@ export const DATA = {
         "Secured 2nd place by building and presenting a working prototype under tight time constraints, evaluated on innovation, technical depth, and impact.",
       image: "",
       win: "2nd Place",
-      links: [],
-    },
-    {
-      title: "PICT Techfiesta Hackathon 2025",
-      dates: "2025",
-      location: "Pune, India",
-      description:
-        "Selected as a finalist among hundreds of teams at one of Pune's most competitive inter-college hackathons.",
-      image: "",
-      win: "Finalist",
-      links: [],
+      links: [
+        {
+          title: "LinkedIn",
+          icon: <Icons.linkedin className="h-4 w-4" />,
+          href: "https://www.linkedin.com/posts/shubhampawade_technodium2025-2ndplacewinner-innovation-ugcPost-7323776558442119171-oSat",
+        },
+      ],
     },
     {
       title: "Competitive Programming",
