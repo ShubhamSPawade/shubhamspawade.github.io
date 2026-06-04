@@ -159,7 +159,7 @@ export const DATA = {
     },
     {
       title: "VisiVerify",
-      href: "https://visiverify.com/",
+      href: "https://visiverify.shubhamsp.site/",
       dates: "Feb 2026 - April 2026",
       active: true,
       description:
