@@ -27,7 +27,7 @@ export const DATA = {
     "Software Engineer focused on backend development, cloud infrastructure, DevOps, and full- stack applications.",
   summary:
     "Computer Engineering student with a strong focus on backend engineering, cloud infrastructure, and scalable software architecture. Experienced in building production-grade applications with Java, Spring Boot, Node.js, React, AWS, Docker, and modern DevOps workflows. Interested in system design, distributed systems, developer tooling, and high-performance applications.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me-new.png",
   skills: [
     { name: "Java", icon: Java },
     { name: "Spring Boot", icon: SpringBoot },
