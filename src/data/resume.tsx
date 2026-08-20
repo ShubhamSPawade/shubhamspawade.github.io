@@ -138,7 +138,7 @@ export const DATA = {
       dates: "Jun 2026 – Ongoing",
       active: true,
       description:
-        "A platform that helps colleges manage their clubs, events, and fests, all in one place. Supports online payments, digital QR tickets, attendance tracking, and dashboards for organizers.",
+        "Multi-tenant SaaS platform for managing college clubs, events, and fests with role-based access, Razorpay payments, QR tickets, and analytics dashboards.",
       technologies: [
         "Java",
         "Spring Boot",
@@ -165,7 +165,7 @@ export const DATA = {
       dates: "Aug 2025 – Ongoing",
       active: true,
       description:
-        "A platform where teachers can create coding tests and MCQ exams, and students can solve them in a live code editor. Includes built-in anti-cheating and auto-grading.",
+        "Online coding assessment platform with live coding tests, MCQ evaluations, Judge0 sandboxed execution, and anti-cheating proctoring.",
       technologies: [
         "Node.js",
         "Express.js",
@@ -190,7 +190,7 @@ export const DATA = {
       dates: "Feb 2026 - April 2026",
       active: true,
       description:
-        "Built for a client, a verification platform where users submit documents and admins can review, approve, or reject them through a clean dashboard.",
+        "Production SaaS verification platform with automated document validation pipelines and an admin dashboard for managing requests.",
       technologies: [
         "React.js",
         "Node.js",
@@ -215,7 +215,7 @@ export const DATA = {
       dates: "Aug 2025 – Dec 2025",
       active: false,
       description:
-        "A command-line tool that automatically sorts messy files into folders by type, date, or custom rules. Published on NPM with 200+ downloads.",
+        "Open-source CLI tool that organizes files by type, date, or custom rules. Published on NPM with 200+ downloads and 40% faster via async batched I/O.",
       technologies: ["Node.js", "NPM", "CLI", "Async I/O"],
       links: [
         {
@@ -238,7 +238,7 @@ export const DATA = {
       dates: "Dec 2024 – Feb 2025",
       active: false,
       description:
-        "Helps farmers identify plant diseases by simply uploading a photo of a leaf. Uses AI to detect the disease with 92% accuracy and suggests remedies.",
+        "AI-powered agriculture app detecting plant diseases from leaf images using ResNet-50 (92% accuracy) with a Flask API and Android companion.",
       technologies: [
         "Python",
         "Flask",
@@ -257,7 +257,7 @@ export const DATA = {
       dates: "Sept 2024 – Feb 2025",
       active: false,
       description:
-        "Predicts the risk of heart disease based on patient health data. Achieves 94% accuracy using machine learning to help with early detection.",
+        "ML pipeline for heart disease detection achieving 94% accuracy using XGBoost with SMOTE-ENN resampling and grid search tuning.",
       technologies: [
         "Python",
         "XGBoost",
