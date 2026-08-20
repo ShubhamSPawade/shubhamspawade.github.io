@@ -133,6 +133,33 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "FESTOS",
+      href: "https://festos.shubhamsp.site/",
+      dates: "2026 – Ongoing",
+      active: true,
+      description:
+        "Multi-tenant SaaS platform for managing college clubs, events, and fests. Supports role-based access for Platform Admins, College Admins, Club Heads, and Students. Features include event discovery, Razorpay payments, digital QR tickets, attendance tracking, budget management, approval workflows, analytics dashboards, and email notifications - all with strong multi-tenant data isolation.",
+      technologies: [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "React",
+        "Tailwind CSS",
+        "AWS",
+        "Docker",
+        "Razorpay",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://festos.shubhamsp.site/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/festos.png",
+      video: "",
+    },
+    {
       title: "Code-E-Pariksha",
       href: "https://code-e-pariksha.vercel.app/",
       dates: "Aug 2025 – Ongoing",
@@ -182,7 +209,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Segre – File Organizer CLI",
+      title: "Segre - File Organizer CLI",
       href: "https://www.npmjs.com/package/segre",
       dates: "Aug 2025 – Dec 2025",
       active: false,
