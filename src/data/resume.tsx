@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon, NotebookIcon, Trophy, Rocket, Lightbulb, Code, GitPullRequestArrow } from "lucide-react";
 import { ReactLight } from "@/components/ui/svgs/reactLight";
 import { Typescript } from "@/components/ui/svgs/typescript";
 import { Nodejs } from "@/components/ui/svgs/nodejs";
@@ -24,7 +24,7 @@ export const DATA = {
   location: "Pune, India",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
-    "Software Engineer focused on backend development, cloud infrastructure, DevOps, and full- stack applications.",
+    "Software Engineer focused on backend development, cloud infrastructure, DevOps, and full-stack applications.",
   summary:
     "Computer Engineering student with a strong focus on backend engineering, cloud infrastructure, and scalable software architecture. Experienced in building production-grade applications with Java, Spring Boot, Node.js, React, AWS, Docker, and modern DevOps workflows. Interested in system design, distributed systems, developer tooling, and high-performance applications.",
   avatarUrl: "/me-new.png",
@@ -277,6 +277,7 @@ export const DATA = {
       description:
         "Secured Rank 1 among participants nationwide in an intensive competitive programming contest testing algorithmic problem-solving and speed.",
       image: "",
+      icon: <Trophy className="size-4" />,
       win: "Rank 1",
       links: [
         {
@@ -293,6 +294,7 @@ export const DATA = {
       description:
         "Won 2nd place at the international-level hackathon organized by PICT, Pune — competing against teams from across the globe on a full-stack project built within a 24-hour sprint.",
       image: "",
+      icon: <Rocket className="size-4" />,
       win: "2nd Place",
       links: [{
         title: "LinkedIn",
@@ -307,6 +309,7 @@ export const DATA = {
       description:
         "Secured 2nd place by building and presenting a working prototype under tight time constraints, evaluated on innovation, technical depth, and impact.",
       image: "",
+      icon: <Lightbulb className="size-4" />,
       win: "2nd Place",
       links: [
         {
@@ -323,6 +326,7 @@ export const DATA = {
       description:
         "Active competitive programmer — CodeChef 3★ (1630 rating), Codeforces Pupil (1281 rating), and HackerRank 5★ in both C++ and Python. Regularly solving problems across data structures, algorithms, and graph theory.",
       image: "",
+      icon: <Code className="size-4" />,
       links: [
         {
           title: "CodeChef",
@@ -343,6 +347,7 @@ export const DATA = {
       description:
         "Contributed meaningful pull requests to 7+ open-source repositories during Hacktoberfest 2025 — including bug fixes, feature additions, and documentation improvements across diverse projects in the JavaScript and Python ecosystems.",
       image: "",
+      icon: <GitPullRequestArrow className="size-4" />,
       links: [
         {
           title: "GitHub",
