@@ -11,11 +11,39 @@ import CertificationsSection from "@/components/section/certifications-section";
 import ProjectsSection from "@/components/section/projects-section";
 import WorkSection from "@/components/section/work-section";
 import { ArrowUpRight } from "lucide-react";
+import GreetingWrapper from "@/components/greeting-wrapper";
 
 const BLUR_FADE_DELAY = 0.04;
 
 export default function Page() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: DATA.name,
+    url: DATA.url,
+    image: `${DATA.url}${DATA.avatarUrl}`,
+    jobTitle: "Software Engineer",
+    description: DATA.description,
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Pune",
+      addressCountry: "IN",
+    },
+    sameAs: [
+      DATA.contact.social.GitHub.url,
+      DATA.contact.social.LinkedIn.url,
+      DATA.contact.social.LeetCode.url,
+      DATA.contact.social.CodeChef.url,
+    ],
+    knowsAbout: DATA.skills.map((s) => s.name),
+  };
+
   return (
+    <GreetingWrapper>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
     <main className="min-h-dvh flex flex-col gap-14 relative">
       <section id="hero">
         <div className="mx-auto w-full max-w-2xl space-y-8">
@@ -157,5 +185,6 @@ export default function Page() {
         </BlurFade>
       </section>
     </main>
+    </GreetingWrapper>
   );
 }

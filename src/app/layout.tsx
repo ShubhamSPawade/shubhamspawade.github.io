@@ -24,15 +24,38 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(DATA.url),
   title: {
-    default: DATA.name,
+    default: `${DATA.name} | Software Engineer & Full-Stack Developer`,
     template: `%s | ${DATA.name}`,
   },
-  description: DATA.description,
+  description:
+    "Shubham Pawade - Software Engineer specializing in backend development, cloud infrastructure, and full-stack applications. Skilled in Java, Spring Boot, Node.js, React, AWS, and Docker.",
+  keywords: [
+    "Shubham Pawade",
+    "Software Engineer",
+    "Full-Stack Developer",
+    "Backend Developer",
+    "Java Developer",
+    "Spring Boot",
+    "Node.js",
+    "React",
+    "AWS",
+    "Docker",
+    "Portfolio",
+    "Pune",
+    "India",
+    "Computer Engineer",
+  ],
+  authors: [{ name: DATA.name, url: DATA.url }],
+  creator: DATA.name,
+  alternates: {
+    canonical: DATA.url,
+  },
   openGraph: {
-    title: `${DATA.name}`,
-    description: DATA.description,
+    title: `${DATA.name} | Software Engineer & Full-Stack Developer`,
+    description:
+      "Software Engineer specializing in backend development, cloud infrastructure, and full-stack applications. Skilled in Java, Spring Boot, Node.js, React, AWS, and Docker.",
     url: DATA.url,
-    siteName: `${DATA.name}`,
+    siteName: DATA.name,
     locale: "en_US",
     type: "website",
   },
@@ -48,8 +71,10 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: `${DATA.name}`,
+    title: `${DATA.name} | Software Engineer`,
     card: "summary_large_image",
+    description:
+      "Software Engineer focused on backend, cloud, and full-stack development.",
   },
   verification: {
     google: "",

@@ -135,10 +135,10 @@ export const DATA = {
     {
       title: "FESTOS",
       href: "https://festos.shubhamsp.site/",
-      dates: "2026 – Ongoing",
+      dates: "Jun 2026 – Ongoing",
       active: true,
       description:
-        "Multi-tenant SaaS platform for managing college clubs, events, and fests. Supports role-based access for Platform Admins, College Admins, Club Heads, and Students. Features include event discovery, Razorpay payments, digital QR tickets, attendance tracking, budget management, approval workflows, analytics dashboards, and email notifications - all with strong multi-tenant data isolation.",
+        "A platform that helps colleges manage their clubs, events, and fests, all in one place. Supports online payments, digital QR tickets, attendance tracking, and dashboards for organizers.",
       technologies: [
         "Java",
         "Spring Boot",
@@ -165,7 +165,7 @@ export const DATA = {
       dates: "Aug 2025 – Ongoing",
       active: true,
       description:
-        "Full-stack online coding assessment platform supporting live coding tests and MCQ evaluations. Built the backend with Node.js & Express, integrated Judge0 API for secure, sandboxed multi-language code execution, and implemented anti-cheating measures including proctoring, fullscreen enforcement, and clipboard restrictions. Optimized file handling with AWS S3 pre-signed URLs for scalable storage.",
+        "A platform where teachers can create coding tests and MCQ exams, and students can solve them in a live code editor. Includes built-in anti-cheating and auto-grading.",
       technologies: [
         "Node.js",
         "Express.js",
@@ -190,13 +190,14 @@ export const DATA = {
       dates: "Feb 2026 - April 2026",
       active: true,
       description:
-        "Client-commissioned verification platform engineered to streamline identity and document verification workflows. Built as a production SaaS with end-to-end document upload, automated validation pipelines, and a clean admin dashboard for managing verification requests — designed for reliability and quick turnaround on real-world compliance needs.",
+        "Built for a client, a verification platform where users submit documents and admins can review, approve, or reject them through a clean dashboard.",
       technologies: [
-        "Next.js",
+        "React.js",
         "Node.js",
-        "MongoDB",
+        "PostgreSQL",
         "TailwindCSS",
         "AWS",
+        "Machine Learning",
       ],
       links: [
         {
@@ -214,7 +215,7 @@ export const DATA = {
       dates: "Aug 2025 – Dec 2025",
       active: false,
       description:
-        "Open-source Node.js CLI tool that automatically organizes files by type, date, or custom rules. Published on NPM with 200+ downloads. Processes 1000+ files efficiently using async I/O streams, achieving a 40% performance improvement through batched operations and optimized directory traversal.",
+        "A command-line tool that automatically sorts messy files into folders by type, date, or custom rules. Published on NPM with 200+ downloads.",
       technologies: ["Node.js", "NPM", "CLI", "Async I/O"],
       links: [
         {
@@ -237,7 +238,7 @@ export const DATA = {
       dates: "Dec 2024 – Feb 2025",
       active: false,
       description:
-        "AI-powered agriculture web app that detects plant diseases from leaf images using a ResNet-50 CNN model with 92% accuracy. Features a Flask REST API backend with MongoDB, multilingual interface support, AWS EC2 deployment, offline-capable Android companion app, an agriculture chatbot for farmer assistance, and heatmap-based disease visualization.",
+        "Helps farmers identify plant diseases by simply uploading a photo of a leaf. Uses AI to detect the disease with 92% accuracy and suggests remedies.",
       technologies: [
         "Python",
         "Flask",
@@ -256,7 +257,7 @@ export const DATA = {
       dates: "Sept 2024 – Feb 2025",
       active: false,
       description:
-        "Machine learning pipeline for early heart disease detection achieving 94% accuracy. Used XGBoost with SMOTE-ENN resampling to handle class imbalance, and applied systematic feature engineering and hyperparameter tuning via grid search to maximize prediction reliability.",
+        "Predicts the risk of heart disease based on patient health data. Achieves 94% accuracy using machine learning to help with early detection.",
       technologies: [
         "Python",
         "XGBoost",
