@@ -160,6 +160,58 @@ export const DATA = {
       video: "",
     },
     {
+      title: "VisiVerify",
+      href: "https://visiverify.shubhamsp.site/",
+      dates: "Feb 2026 – Apr 2026",
+      active: true,
+      description:
+        "Production SaaS verification platform with automated document validation pipelines and an admin dashboard for managing requests.",
+      technologies: [
+        "React.js",
+        "Node.js",
+        "PostgreSQL",
+        "TailwindCSS",
+        "AWS",
+        "Machine Learning",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://visiverify.shubhamsp.site/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/visiverify.png",
+      video: "",
+    },
+    {
+      title: "Do Or Die",
+      href: "https://doordie.shubhamsp.site/",
+      dates: "Jan 2026 – Feb 2026",
+      active: true,
+      description:
+        "Daily habit and task accountability platform with prioritized routines, automated morning & evening email reminders via cron jobs, and an admin dashboard.",
+      technologies: [
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Supabase",
+        "JavaScript",
+        "JWT",
+        "Nodemailer",
+        "Cron Scheduler",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://doordie.shubhamsp.site/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/doordie.png",
+      video: "",
+    },
+    {
       title: "Code-E-Pariksha",
       href: "https://code-e-pariksha.vercel.app/",
       dates: "Aug 2025 – Ongoing",
@@ -182,31 +234,6 @@ export const DATA = {
         },
       ],
       image: "/code-e-pariksha.png",
-      video: "",
-    },
-    {
-      title: "VisiVerify",
-      href: "https://visiverify.shubhamsp.site/",
-      dates: "Feb 2026 - April 2026",
-      active: true,
-      description:
-        "Production SaaS verification platform with automated document validation pipelines and an admin dashboard for managing requests.",
-      technologies: [
-        "React.js",
-        "Node.js",
-        "PostgreSQL",
-        "TailwindCSS",
-        "AWS",
-        "Machine Learning",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://visiverify.shubhamsp.site/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/visiverify.png",
       video: "",
     },
     {
