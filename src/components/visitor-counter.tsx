@@ -146,22 +146,22 @@ export default function VisitorCounter({ className }: VisitorCounterProps) {
         <TooltipTrigger asChild>
           <div
             className={cn(
-              "border bg-background border-border ring-2 ring-border/20 rounded-xl h-8 w-fit px-3.5 flex items-center gap-2 shadow-xs cursor-default select-none transition-colors",
+              "border bg-background border-border ring-2 ring-border/20 rounded-xl h-7 w-fit px-2.5 flex items-center gap-1.5 shadow-xs cursor-default select-none transition-colors",
               className
             )}
           >
             {/* Pulsing Live Dot */}
-            <span className="relative flex h-2 w-2">
+            <span className="relative flex h-1.5 w-1.5">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" />
-              <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500" />
+              <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-emerald-500" />
             </span>
 
-            <Users className="size-3.5 text-muted-foreground" />
+            <Users className="size-3 text-muted-foreground" />
 
-            <span className="text-muted-foreground text-xs font-medium flex items-center gap-1.5">
-              <span>People Visited</span>
+            <span className="text-muted-foreground text-xs font-medium flex items-center gap-1">
+              <span>People Visited:</span>
               {loading || !formattedUnique ? (
-                <span className="inline-block w-8 h-3.5 bg-muted animate-pulse rounded" />
+                <span className="inline-block w-6 h-3 bg-muted animate-pulse rounded" />
               ) : (
                 <span className="font-semibold text-foreground font-mono tabular-nums">
                   {formattedUnique}
