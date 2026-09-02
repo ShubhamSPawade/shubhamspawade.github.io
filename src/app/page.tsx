@@ -13,6 +13,8 @@ import WorkSection from "@/components/section/work-section";
 import { ArrowUpRight } from "lucide-react";
 import GreetingWrapper from "@/components/greeting-wrapper";
 
+import Footer from "@/components/footer";
+
 const BLUR_FADE_DELAY = 0.04;
 
 export default function Page() {
@@ -184,6 +186,7 @@ export default function Page() {
           <ContactSection />
         </BlurFade>
       </section>
+      <Footer />
     </main>
     </GreetingWrapper>
   );
