@@ -96,6 +96,30 @@ export const DATA = {
 
   work: [
     {
+      company: "Double AI",
+      href: "https://thedouble.ai/",
+      badges: [],
+      location: "Bangalore, India",
+      title: "AI Full Stack Developer Intern",
+      logoUrl: "/doubleai.png",
+      start: "Sep 2026",
+      end: "Oct 2026",
+      description:
+        "Engineered full-stack features for the Double AI Platform, integrating Gen AI models, LLMs, and agentic workflows into production. Designed scalable backend APIs, orchestrated multi-agent interactions, and optimized frontend performance for responsive AI experiences.",
+    },
+    {
+      company: "AmbuGrid System",
+      href: "#",
+      badges: [],
+      location: "Pune, India",
+      title: "Software Developer Intern",
+      logoUrl: "",
+      start: "July 2026",
+      end: "Sep 2026",
+      description:
+        "Engineered backend services for ParkVahan, a smart parking platform, using Node.js, Express.js, and PostgreSQL. Built RESTful APIs for bookings, QR-based entry/exit, authentication, and vehicle verification. Managed AWS cloud infrastructure (EC2, PostgreSQL) and collaborated across teams to ship features for customer, owner, guard, and admin apps.",
+    },
+    {
       company: "Cisco Networking Academy",
       href: "https://www.netacad.com",
       badges: ["AICTE Virtual Internship"],
@@ -114,8 +138,8 @@ export const DATA = {
       location: "Remote",
       title: "Web Development Intern",
       logoUrl: "/metacraftlab.png",
-      start: "2024",
-      end: "2024",
+      start: "May 2024",
+      end: "July 2024",
       description:
         "Built and shipped production web applications using Svelte & SvelteKit. Improved UI responsiveness by 15% through component optimization and lazy loading. Reduced merge conflicts by 30% by establishing structured Git branching workflows. Debugged and validated REST APIs using Postman across staging and production environments.",
     },
